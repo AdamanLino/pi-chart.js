@@ -1,0 +1,17 @@
+body {
+    display: flex;
+}
+
+#graficoLinha {
+    position: relative;
+    height: 40vh;
+    width: 40vw;
+
+}
+
+#graficoBarra {
+    position: relative;
+    height: 40vh;
+    width: 40vw;
+
+}
